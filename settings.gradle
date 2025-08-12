@@ -1,1 +1,1 @@
-include ':app', ':rxandroidcodeexample', ':kotlincodeexample'
+include ':app', ':rxandroidcodeexample'
